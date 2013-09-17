@@ -1,4 +1,0 @@
-Trafic.smali
-============
-
-Guide
